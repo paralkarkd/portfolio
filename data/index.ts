@@ -106,6 +106,7 @@ export const testimonials = [
   {
     quote:
       "I joined the Freshers Incubation Program at Profound Edu Tech, a highly selective program offered free for few students. During this program, I had the opportunity to learn a range of technologies and programming languages, including Java, advanced Java, ODBC, JDBC, and SQL databases. This experience provided me with a solid foundation in both basic and advanced concepts, enhancing my skills in software development and database management.",
+    name: "Kedar Paralkar",
     title: "Freshers Incubation Program at Profound Edu Tech",
   },
   {
