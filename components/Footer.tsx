@@ -20,7 +20,8 @@ const Footer = () => {
           Currently I am  working at <span className="text-purple">Orizzonte</span> As a software developer
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          "Every line of code you write is a step towards turning ideas into reality. Keep pushing boundaries and shaping the future!"
+          Reach out to me today and let&apos;s discuss how I can help you
+          achieve your goals.
         </p>
         <a href="kedarparalkar503@gmail.com">
           <MagicButton
@@ -41,7 +42,7 @@ const Footer = () => {
               key={info.id}
               className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300"
             >
-              <a href = "https://linkedin.com/in/kedar-paralkar-923881280/">
+               <a href = "https://linkedin.com/in/kedar-paralkar-923881280/">
               <img src={info.img} alt="icons" width={20} height={20} />
               </a>
             </div>
